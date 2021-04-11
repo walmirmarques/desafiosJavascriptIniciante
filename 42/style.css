@@ -1,0 +1,13 @@
+html, body {
+		padding: 0px;
+		margin: 0px;
+}
+	
+body {
+		width: 100%;
+}
+
+#urso-img {
+		position: fixed;
+		width: 80px;		
+}
